@@ -1,4 +1,4 @@
 # PoopTelegram
 
 -Телеграм бот для сервера PoopLand
--pip install aiogram
+ -pip install aiogram
